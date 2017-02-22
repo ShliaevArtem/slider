@@ -1,0 +1,24 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+
+    width: 800px;
+}
+#myCarousel{
+    width: 800px;
+    margin: 0 auto;
+}
+.btn_link{
+    /*position: absolute;*/
+    margin: 0 auto;
+    border: red solid;
+    padding: 10px;
+
+}
+.carousel-caption{
+    border: red solid;
+}
+.container1{
+
+    width: 800px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.5);
+}
